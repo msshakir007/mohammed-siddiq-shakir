@@ -1,0 +1,6 @@
+{
+  "name": "பாட்டி தாத்தா கதை உலகம்",
+  "description": "பாரம்பரிய தமிழ் கதைகள், கிராமத்துக் கதைகள், பாட்டி தாத்தா கதைகள், மற்றும் நீதிக்கதைகள் - Traditional Tamil storytelling platform with audio narration, bilingual stories, and custom bookmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">கதை உலகம்</string>
+    <string name="app_full_name">பாட்டி தாத்தா கதை உலகம்</string>
+    <string name="app_english_name">Grandma &amp; Grandpa Story World</string>
+    <string name="welcome_heading">வணக்கம்! பாட்டி தாத்தா கதை உலகத்திற்கு உங்களை அன்புடன் வரவேற்கிறோம்!</string>
+    <string name="welcome_subtitle">பழங்காலக் கதைகளைப் படிப்போம், பாரம்பரியத்தை அடுத்த தலைமுறைக்குக் கொண்டு செல்வோம்!</string>
+    <string name="read_stories_cta">கதைகளைப் படிக்கலாம்</string>
+    <string name="search_hint">கதையைத் தேடுக… (தலைப்பு, வகை)</string>
+    <string name="featured_stories">சிறப்புக் கதைகள்</string>
+    <string name="popular_stories">பிரபலமான கதைகள்</string>
+    <string name="recent_stories">சமீபத்தில் சேர்க்கப்பட்டவை</string>
+    <string name="categories_title">கதை வகைகள்</string>
+    <string name="favorites_title">பிடித்த கதைகள்</string>
+    <string name="admin_title">நிர்வாகப் பகுதி (Admin)</string>
+    <string name="reading_time_format">%d நிமிட வாசிப்பு</string>
+    <string name="moral_label">நீதி / பாடம்</string>
+    <string name="play_audio">கதையைக் கேட்கலாம்</string>
+    <string name="pause_audio">இடைநிறுத்து</string>
+    <string name="resume_audio">தொடர்க</string>
+    <string name="stop_audio">நிறுத்து</string>
+    <string name="tts_unavailable">உங்கள் சாதனத்தில் தமிழ் குரல் கிடைக்கவில்லை அல்லது ஆதரிக்கப்படவில்லை. அமைப்புகளில் தமிழ் பேச்சு தொகுப்பினை இயக்கவும்.</string>
+</resources>
